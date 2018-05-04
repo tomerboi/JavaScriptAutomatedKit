@@ -1,0 +1,2 @@
+# JavaScriptAutomatedKit
+JavaScript development environment
